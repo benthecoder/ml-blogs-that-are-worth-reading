@@ -1,5 +1,5 @@
 # ML-resources
-Blogs and books on Machine Learning and Deep learning
+Blogs and websites on Machine Learning and Deep learning
 
 ## Personal Blogs
 * [Sebastian Ruder](https://ruder.io)
@@ -29,10 +29,6 @@ Blogs and books on Machine Learning and Deep learning
 * [BAIR](https://bair.berkeley.edu/blog/)
 * [Amazon Science](https://www.amazon.science/blog)
 
-## All-in-one
+## Latest Research 
 * [distill](distill.pub)
 * [Papers wih Code](https://paperswithcode.com/)
-
-## Books
-* [Neural networks and deep learning](http://neuralnetworksanddeeplearning.com)
-* [Dive into Deep Learning](https://d2l.ai/d2l-en.pdf)
