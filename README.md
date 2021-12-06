@@ -7,7 +7,6 @@ Blogs and websites on Machine Learning and Deep learning
 * [Chris McCormick · Machine Learning Tutorials and Insights](https://mccormickml.com)
 * [Sebastian Raschka](https://sebastianraschka.com/blog/index.html)
 * [Andrej Karpathy blog](http://karpathy.github.io)
-* [WildML – Artificial Intelligence, Deep Learning, and NLP](http://www.wildml.com)
 * [Probably Approximately a Scientific Blog](http://veredshwartz.blogspot.com)
 * [Lil’Log](https://lilianweng.github.io/lil-log/)
 * [Juergen Schmidhuber’s AI Blog](http://people.idsia.ch/~juergen/blog.html)
@@ -18,6 +17,9 @@ Blogs and websites on Machine Learning and Deep learning
 * [Off the Convex Path](http://www.offconvex.org/)
 * [MadryLab](https://gradientscience.org/)
 * [Depth First Learning](http://www.depthfirstlearning.com/)
+
+### Currently dead
+* [WildML – Artificial Intelligence, Deep Learning, and NLP](http://www.wildml.com)
 
 ## Research blogs
 * [DeepMind](https://deepmind.com/blog)
